@@ -1,3 +1,4 @@
+
 Autocompleter = function(){
   // Trie mode:
   // this.data = new Trie();
